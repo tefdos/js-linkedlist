@@ -274,3 +274,5 @@ LinkedList.prototype.toArray = function() {
     });
     return result;
 };
+
+module.exports = {LinkedList: LinkedList};

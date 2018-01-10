@@ -1,6 +1,6 @@
 {
   "name": "js-linkedlist",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/archfirst/js-linkedlist",
   "description": "An implementation of the doubly-linked list in JavaScript",
   "main": "src/linkedlist.js",
